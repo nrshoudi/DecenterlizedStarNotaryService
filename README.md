@@ -8,10 +8,10 @@ The ERC-721 name is "Nora Token", which is the name of the developer, and the to
 Token Address of Rinkeby Network:
 "0xb0d1d8911e6EC564c5eD67559379Eb9F1d772bB6"
 
-## Languages used
-Solidity
-Node.js
-HTML, CSS
+## Build With
+* [Solidity] (https://solidity.readthedocs.io/en/v0.4.24/) - The language used to build a smart contract.
+* [Node.js] (https://nodejs.org/en/docs/)
+* [HTML, CSS]
 
 ## Getting started
 Open a command prompt or shell terminal after install node.js, Then execute the following command:
@@ -20,31 +20,31 @@ Open a command prompt or shell terminal after install node.js, Then execute the 
 npm install
 ```
 
-## Starting the development console
+### Starting the development console
 ```
 truffle develop
 ```
-## Compiling
+### Compiling
 ```
 compile
 ```
-## Running the test
+### Running the test
 ```
 test
 ```
-## Running the test
+### Running the test
 ```
 test
 ```
-## Migrating the contract to the locally running Ethereum network
+### Migrating the contract to the locally running Ethereum network
 ```
 migrate --reset
 ```
-## Migrating the contract to the Rinkeby network
+### Migrating the contract to the Rinkeby network
 ```
 migrate --reset --network rinkeby
 ```
-# Running the Front End of the DAPP
+### Running the Front End of the DAPP
 open another terminal window and go inside the project directory, and run:
 
 ```
