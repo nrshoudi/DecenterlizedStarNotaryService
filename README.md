@@ -44,7 +44,9 @@ migrate --reset
 ```
 migrate --reset --network rinkeby
 ```
-## Running the Front End of the DAPP, open another terminal window and go inside the project directory, and run:
+# Running the Front End of the DAPP
+open another terminal window and go inside the project directory, and run:
+
 ```
 cd app
 npm run dev
