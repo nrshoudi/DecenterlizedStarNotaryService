@@ -6,7 +6,7 @@ This web service will provide you some functions to create contracts to your use
 
 The ERC-721 name is "Nora Token", which is the name of the developer, and the token symbol is "NT".
 Token Address of Rinkeby Network:
-"0xb0d1d8911e6EC564c5eD67559379Eb9F1d772bB6"
+"0xde243377ad7fdd819356ad3d87cdc82abeb19dc7"
 
 ## Build With
 * [Solidity](https://solidity.readthedocs.io/en/v0.4.24/) - The language used to build a smart contract.
