@@ -9,9 +9,9 @@ Token Address of Rinkeby Network:
 "0xb0d1d8911e6EC564c5eD67559379Eb9F1d772bB6"
 
 ## Build With
-* [Solidity] (https://solidity.readthedocs.io/en/v0.4.24/) - The language used to build a smart contract.
-* [Node.js] (https://nodejs.org/en/docs/)
-* [HTML, CSS]
+* [Solidity](https://solidity.readthedocs.io/en/v0.4.24/) - The language used to build a smart contract.
+* [Node.js](https://nodejs.org/en/docs/)
+* HTML, CSS
 
 ## Getting started
 Open a command prompt or shell terminal after install node.js, Then execute the following command:
