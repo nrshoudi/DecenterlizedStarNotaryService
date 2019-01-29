@@ -40,9 +40,9 @@ string public constant symbol = "NT";
 
     require(exist(tokenId), "Star does not exist.");
 
-    Star memory starName = tokenIdToStarInfo[tokenId];
+    Star memory star = tokenIdToStarInfo[tokenId];
 
-    return starName.name;
+    return star.name;
     }
 
     function putStarUpForSale(uint256 _tokenId, uint256 _price) public {
