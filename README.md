@@ -32,10 +32,7 @@ compile
 ```
 test
 ```
-### Running the test
-```
-test
-```
+
 ### Migrating the contract to the locally running Ethereum network
 ```
 migrate --reset
@@ -49,5 +46,7 @@ open another terminal window and go inside the project directory, and run:
 
 ```
 cd app
+```
+```
 npm run dev
 ```
